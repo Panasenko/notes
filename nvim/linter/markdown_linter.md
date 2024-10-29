@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD022 MD032 MD013 -->
 markdown_linter
 ===============
-- Category: nmap/linter
+- Category: nvim/linter
 - Tags: markdown, linter
 - Created: 2024-10-29T17:26:34+02:00
 
